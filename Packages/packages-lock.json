@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.harumak.unitydebugsheet": {
+      "version": "https://github.com/Haruma-K/UnityDebugSheet.git?path=/Assets/UnityDebugSheet",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "1bde1ff6c3bc62d97ce2e94f92083526ed2b2463"
+    },
     "com.unity.2d.animation": {
       "version": "9.1.0",
       "depth": 1,
